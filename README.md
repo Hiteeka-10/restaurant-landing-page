@@ -23,9 +23,6 @@ To run this project locally:
    ```
 2. Open the `index.html` file in any browser to view the website.
 
-## Screenshots
-![Homepage](screenshots/homepage.png)
-![Menu Page](screenshots/menu-page.png)
 
 ## Future Enhancements
 - Add online table booking functionality
